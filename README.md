@@ -1,4 +1,4 @@
-# Kamaljeet-Kaur.guthub.io
+# Kamaljeet-Kaur.github.io
 ## Acitivity sheet of inductipn program 2024
 
 | Syntax | Description |
