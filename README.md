@@ -1,9 +1,9 @@
 # Kamaljeet-Kaur.github.io
-## Acitivity sheet of inductipn program 2024
+## Acitivity sheet of inductipn program 2024 (15.07.2024)
 
 | Syntax | Description |
 | ----------- | ----------- |
-| 15.07.2024 | Dr. Pyare Lal Garg |
+| Speaker| Dr. Pyare Lal Garg |
 | Header | Important points |
 
 * *The lamp continues to illuminate its surroundings, even as it burns itself out.* <br>
@@ -14,3 +14,50 @@
 * *These woods are lovely, dark, and deep, but I have promises to keep, and miles to go before I sleep..* <br>
 * *We shouldn't engage in challenges with the intention of bringing others down.* <br>
 * *Don't become enslaved by 'what ifs'* <br>
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Speaker | Mr. Sony Goyal|
+| Header | JOSH |
+
+<h4 align="center">JOSH- Journey On Sucess Highway </h4> <br>
+
+**LIFE**- <br>
+* ***L***- *Learn*
+* ***I***- *Inquire*
+* ***F***- *Future*
+* ***E***- *Enjoy* <br>
+  ***Important takeaways from the lecture*** <br>
+  * *Always give your 100%*
+  * *Have efficency and compatibility*
+  * *Carrier is a small part of life. Life is not a small part of carrier*
+ 
+| Syntax | Description |
+| ----------- | ----------- |
+| Speaker | Mr. Pancham|
+| Header | Body Language |
+
+<h4 align="center"> The most important thing in communication is to hear what isn't being said </h4> <br>
+
+**Topics Taught** <br>
+
+ * *Smile* <br>
+* *Expressions* <br>
+* *Hand gestures* <br>
+* *Standing postures*
+* *Sitting postures* <br>
+* *Position of Feet* <br>
+* *Handshakes* <br>
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
