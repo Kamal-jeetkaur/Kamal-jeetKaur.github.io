@@ -13,7 +13,7 @@
 
  
 <h3 align="center"> Acitivity sheet of induction program 2024 </h3>
-<h3 align="center"> 11/07/2024 </h3>
+<h3 align="center"> 10/07/2024 </h3>
 
 *Today marked the start of my new journey as a college student, and the day began with a special ardas at the Gurudwara Sahib on the college campus. It was a very moving and powerful experience to receive the blessings before embarking on this new chapter of my life. The day was then filled with various activities conducted by alumni of the college, who shared their insights and experiences with us. It was a delightful way to get to know some of the people who have come before me and to learn from their wisdom. Overall, it was a wonderful start to my college career, and I am excited to see what the future holds!*
 
