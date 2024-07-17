@@ -1,4 +1,4 @@
-# Kamaljeet-Kaur.github.io
+# KamaljeetKaur00.github.io
  _Greetings everyone. My name is Kamaljeet Kaur. I am currently pursuing my bachelor's degree in Computer Science and Engineering at Guru Nanak Dev Engineering College. I have a passion for creating new things and have a special interest in Fine arts and Astronomy. I also enjoy reading books and have made it a goal to read at least 10 books this year. I am excited about my journey in coding and hope to continue exploring new areas and challenges in this field._
 
  ## Senior Secondary Examination
