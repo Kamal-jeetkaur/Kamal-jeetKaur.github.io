@@ -19,7 +19,7 @@
 
 <h3 align="center"> 11/07/2024 </h3>
 
-*Today, we were introduced to the technical activities of the college, including the different societies and organisations, as well as the upcoming events and scholarship opportunities. It was a valuable opportunity to learn about the various opportunities available to us as students*
+*Today, we were introduced to the technical activities of the college, including the different societies and organisations, as well as the upcoming events and scholarship opportunities. It was a valuable opportunity to learn about the various opportunities available to us as students.*
 
 <h3 align="center"> 12/07/2024 </h3>
 
@@ -28,7 +28,7 @@
 | Teacher | Sandeep Kaur Gill |
 | Subject | Math|
 
-*Today we had a maths class with Mam Sandeep. Her class was engaging and smooth. I made a silly mistake in a solution, and she didn't react negatively at all. Instead, she told me to take another look and figure it out, which I appreciate. Her personality is so welcoming and approachable, which made me feel relaxed in class. Her openness to questions and her willingness to help out make her a great teacher*
+*Today we had a maths class with Mam Sandeep. Her class was engaging and smooth. I made a silly mistake in a solution, and she didn't react negatively at all. Instead, she told me to take another look and figure it out, which I appreciate. Her personality is so welcoming and approachable, which made me feel relaxed in class. Her openness to questions and her willingness to help out make her a great teacher.*
 
 | Syntax | Description |
 | ----------- | ----------- |
