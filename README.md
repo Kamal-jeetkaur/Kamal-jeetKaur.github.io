@@ -13,6 +13,9 @@
 
  
 <h3 align="center"> Acitivity sheet of induction program 2024 </h3>
+<h3 align="center"> 11/07/2024 </h3>
+
+*Today marked the start of my new journey as a college student, and the day began with a special ardas at the Gurudwara Sahib on the college campus. It was a very moving and powerful experience to receive the blessings before embarking on this new chapter of my life. The day was then filled with various activities conducted by alumni of the college, who shared their insights and experiences with us. It was a delightful way to get to know some of the people who have come before me and to learn from their wisdom. Overall, it was a wonderful start to my college career, and I am excited to see what the future holds!*
 
 <h3 align="center"> 11/07/2024 </h3>
 
@@ -23,14 +26,14 @@
 | Syntax | Description |
 | ----------- | ----------- |
 | Teacher | Sandeep Kaur Gill |
-| Header | Math|
+| Subject | Math|
 
 *Today we had a maths class with Mam Sandeep. Her class was engaging and smooth. I made a silly mistake in a solution, and she didn't react negatively at all. Instead, she told me to take another look and figure it out, which I appreciate. Her personality is so welcoming and approachable, which made me feel relaxed in class. Her openness to questions and her willingness to help out make her a great teacher*
 
 | Syntax | Description |
 | ----------- | ----------- |
-| Teacher | MK |
-| Header | UniversalHuman Values|
+| Teacher | Manpreet Kaur |
+| Subject | Universal Human Values|
 
 <h4 align="center"> Important points </h4> <br>
 
@@ -116,9 +119,22 @@
 
 *The second English activity was another great opportunity to test our knowledge of general knowledge and daily affairs. The quiz was designed to challenge us, but this time, we were given the freedom to choose our own teams.* <br> 
 *I was in the Team A. Even thought the team didn't win, the experience was rewarding in many other ways, we were able to build strong bonds and make friends, which is just as valuable as winning the quiz.*
- 
 
- 
+  <h3 align="center"> 17/07/2024 </h3>
+  
+ | Syntax | Description |
+| ----------- | ----------- |
+| Teacher | Sandeep Kaur Gill  |
+| Subject | Math |
+
+*Today was a funny experience! Me and my friend Karmandeep attended the wrong math class instead of our actual class. I laughed at myself at that moment and thought that this is a good lesson to always double check before entering the classroom.*
+
+  | Syntax | Description |
+| ----------- | ----------- |
+| Teacher | JK |
+| Subject | UHV |
+
+*In universal human values class, we had a fascinating discussion about the human being and our need for coexistence between body and being. We learned about how our needs as physical creatures are interconnected with our desires and how finding harmony between the two is crucial to our overall well-being. Additionally, we explored the concept of self-organization and self-exploration and the importance of taking ownership of our lives and making active choices that promote our personal growth and development.*
 
 
 
