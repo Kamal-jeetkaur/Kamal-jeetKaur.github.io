@@ -139,10 +139,36 @@
 
 *In universal human values class, we had a fascinating discussion about the human being and our need for coexistence between body and being. We learned about how our needs as physical creatures are interconnected with our desires and how finding harmony between the two is crucial to our overall well-being. Additionally, we explored the concept of self-organization and self-exploration and the importance of taking ownership of our lives and making active choices that promote our personal growth and development.*
 
+<h3 align="center"> 19/07/2024 </h3>
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Resource Person|Er. Kanwardeep Kalra|
 
+*Eng. Kanwardeep Kalra gave an insightful lecture on campus to corporate. She talked about the importance of soft skills, such as communication, confidence, and behavior, in interviews and how these skills are often more valuable than technical skills. She also emphasized the need to be culturally fit and culturally reliable in the workplace, which can help employees adapt and thrive in different environments.*
+*Eng. Kalra also discussed the importance of soft skills and how to develop them. She mentioned that softskills can be learned and improved by practicing them regularly, seeking feedback from others, and putting oneself out of one's comfort zone. Eng. Kalra further highlighted the need for flexibility and adaptability in the workplace, especially in today's fast-changing world, and how change can be challenging but ultimately beneficial for personal and professional growth.*
 
+<h3 align="center"> Department Visit </h3>
 
+*During our department visit, we were introduced to different societies and clubs available on campus. We also learned about the different curricula offered and their credit distribution. It was an excellent opportunity to understand the diverse opportunities available to us as students and to gain a better sense of the overall college experience.*
+
+ <h3 align="center"> 22/07/2024 </h3>
+
+ | Syntax | Description |
+| ----------- | ----------- |
+| Resource Person| Dr. SB Singh|
+
+*Dr. SB Singh assigned us an interesting self-reflection exercise. It began with writing our name and personal information, followed by listing our strengths, weaknesses, job preferences, and hobbies. We were also asked about our priority goals in life and how we would achieve them.*
+
+*As I started to write down my responses, I realized how much I had to reflect on. It was a great opportunity to look within myself and gain a better understanding of my strengths, weaknesses, interests, and aspirations.*
+
+ | Syntax | Description |
+| ----------- | ----------- |
+| Resource Person| Dr. Pushpinder Singh|
+
+*Today I learned about three different learning techniques: surface, deep, and strategic learning. Our instructor, Dr. Pushpinder Singh, emphasized the importance of using deep and strategic learning in college to gain a deeper understanding of the subject matter.*
+
+*Dr. Pushpinder explained how different people have different learning styles and that forcing one method on all students may lead to them disliking the subject. He also talked about the importance of competition with oneself rather than others, as well as being focused, flexible, humble, and having faith in one's abilities. He taught us about the SQRWR technique for studying. This technique involves surveying the topic, asking questions, reading about the subject, writing down what we have learned, and reviewing the information to ensure that we have retained it.*
 
 
 
