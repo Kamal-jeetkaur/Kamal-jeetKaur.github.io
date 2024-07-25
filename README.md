@@ -133,6 +133,7 @@
 
 | Resource Person|Er. Kanwardeep Kalra|
 | ----------- | ----------- |
+| Header| Campus to Corporate|
 
 *Eng. Kanwardeep Kalra gave an insightful lecture on campus to corporate. She talked about the importance of soft skills, such as communication, confidence, and behavior, in interviews and how these skills are often more valuable than technical skills. She also emphasized the need to be culturally fit and culturally reliable in the workplace, which can help employees adapt and thrive in different environments.*
 *Eng. Kalra also discussed the importance of soft skills and how to develop them. She mentioned that softskills can be learned and improved by practicing them regularly, seeking feedback from others, and putting oneself out of one's comfort zone. Eng. Kalra further highlighted the need for flexibility and adaptability in the workplace, especially in today's fast-changing world, and how change can be challenging but ultimately beneficial for personal and professional growth.*
@@ -145,6 +146,7 @@
 
 | Resource Person| Dr. SB Singh|
 | ----------- | ----------- |
+| Header| Self Exploration |
 
 *Dr. SB Singh assigned us an interesting self-reflection exercise. It began with writing our name and personal information, followed by listing our strengths, weaknesses, job preferences, and hobbies. We were also asked about our priority goals in life and how we would achieve them.*
 
@@ -152,6 +154,7 @@
 
 | Resource Person| Dr. Pushpinder Singh|
 | ----------- | ----------- |
+| Header | Impotant points |
 
 *Today I learned about three different learning techniques: surface, deep, and strategic learning. Our instructor, Dr. Pushpinder Singh, emphasized the importance of using deep and strategic learning in college to gain a deeper understanding of the subject matter.*
 
@@ -163,11 +166,13 @@
  
 | Resource Person| Mr. Gauravdeep S |
 | ----------- | ----------- |
+| Header| Success |
 
  *Mr. Gauravdeep shared his personal experiences and wisdom with us. He talked about the importance of sharing our struggles with others and not bottling them up. He explained how every struggle and failure is meant to teach us something, but we often don't see it that way. He also mentioned how we are often conditioned to look for what is wrong in ourselves and not what is good. Mr. Gauravdeep also talked about temporary and permanent happiness, encouraging us to find our true qualities and start loving ourselves. He asked us to consider what the world would remember us for if we were to die today.*
 
  | Resource Person| Er. Lakhveer Singh |
 | ----------- | ----------- |
+|Header| CML |
 
 *Lakhveer sir introduced us to the Society 'Centre for Multi-Functional Learning'. He talked about the different functions of society and how it helps in the multi-dimensional development of students. He further explained the benefits of being a part of such a society and how it can be beneficial for our overall growth both academically and personally. Lakhveer sir also stressed on the need of such societies in a person's life and how these type of groups can provide students with a supportive community where they can grow and learn together.*
 
