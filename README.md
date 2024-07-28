@@ -179,3 +179,13 @@
  <h3 align="center"> 25/07/2024 </h3>
 
 *The classes started on UHV (Universal Human values) which was followed by peer interaction where our seniors guided us on how to use the Canvas app. After which we also had a maths exam.*
+
+<h3 align="center"> 26/07/2024 </h3>
+
+ | Resource Person| Dr. Kanwalpreet K Bhatt |
+| ----------- | ----------- |
+|Header| Meditation |
+
+*The day started with Dr. Bhatt's insights. She spoke about the benefits of meditation and provided us with instructions on how to meditate properly. Dr. Bhatt guided us all through a quick 15-minute meditation exercise, which made for a peaceful start to the day. She emphasized the importance of meditation in maintaining mental health, reducing stress, and improving overall wellbeing.*
+
+<h3 align="center"> Valedictory </h3>
